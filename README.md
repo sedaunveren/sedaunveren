@@ -12,7 +12,7 @@
 
 ### Languages and Tools:
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="32" height="32" />  <img src="https://raw.githubusercontent.com/github/explore/d8574c7bce27faa27fb879bca56dfe351ee66efd/topics/pycharm/pycharm.png" width="32" height="32"/>   <img src="https://camo.githubusercontent.com/5a4ced74e25e8fab905a70293af257cb43dd90ee70bc53fb802ae80280a78710/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323636372f504e472f3531322f6a7570797465725f6170705f69636f6e5f3136313238302e706e67" width="32" height="32" /> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="32" heigth="32" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="36" height="36" />   <img src="https://raw.githubusercontent.com/github/explore/d8574c7bce27faa27fb879bca56dfe351ee66efd/topics/pycharm/pycharm.png" width="36" height="36"/>    <img src="https://camo.githubusercontent.com/5a4ced74e25e8fab905a70293af257cb43dd90ee70bc53fb802ae80280a78710/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323636372f504e472f3531322f6a7570797465725f6170705f69636f6e5f3136313238302e706e67" width="36" height="36" />  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="36" heigth="36" />
 
 
 <br />
